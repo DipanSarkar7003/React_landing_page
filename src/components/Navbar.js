@@ -8,10 +8,10 @@ function Navbar(){
 
 {/* THIS IS NAV BAR LEFT PART  */}
 
-<div className="nav_left flex gap-16 items-center justify-between w-[30%]">
+<div className="nav_left flex  items-center justify-between w-[45%] gap-10">
 
 
-<img src= {logo} alt="i am a logo" />
+<img src= {logo} alt="i am a logo" className="w-[9vw] " />
 <ul className="flex gap-10">
 {list_items.map((item) =>{
     return(
