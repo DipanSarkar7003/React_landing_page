@@ -42,3 +42,8 @@ body {
 .list_item :hover{
   background-color: #d43434;
 }
+
+.text_paragraph{
+  font-family: "Epilogue", sans-serif;
+  color: hsl(0, 0%, 41%);
+}
