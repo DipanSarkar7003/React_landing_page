@@ -1,5 +1,10 @@
 # Getting Started with Create React App
 
+click here to see the project : https://react-landing-page-git-updated-dipansarkar7003s-projects.vercel.app/
+
+the entire project is hosted on Varcel.
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
