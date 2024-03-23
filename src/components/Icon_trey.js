@@ -8,11 +8,11 @@ function Icon_trey() {
 
  let  icon_sources = [Databiz, Audio_phile,Meet,Maker]
   return (
-   <div className='flex gap-10 py-20 w-[100%] '>
+   <div className='m-auto flex gap-10 py-20 w-[100%] '>
 {
   icon_sources.map((item)=>{
     return(
-      <img src= {item} key={item} className='w-26 h-[1.5vw] ' />
+      <img src= {item} key={item} className='w-[3.5rem] h-[1.5rem] ' />
     )
   })
 }

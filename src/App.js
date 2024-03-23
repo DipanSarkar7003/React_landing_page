@@ -5,10 +5,10 @@ import HeroText from './components/heroText';
 import Hero_image from './components/hero_image';
 function App() {
   return (
-    <div className="App h-[100vh]">
+    <div className=" ">
 
       <Navbar />
-      <div className='flex justify-between px-28 gap-[6vw]'>
+      <div className='flex-col-reverse w-full  hero_part md:flex-row md:h-[80vw] flex justify-between sm:px-28 gap-[6vw] '>
         <HeroText />
         <Hero_image />
       </div>
